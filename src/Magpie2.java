@@ -33,7 +33,7 @@ public class Magpie2
 		String response = "";
 		if (statement.indexOf("no") >= 0)
 		{
-			response = "Why so negative?";
+			response = "Why so negative?";//NOOOOO!!!hu
 		}
 		else if (statement.indexOf("mother") >= 0
 				|| statement.indexOf("father") >= 0
